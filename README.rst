@@ -15,7 +15,8 @@ It quantifies and visualizes **NHEJ (Non-Homologous End Joining)** and **HDR (Ho
 - 🐳 **Improved Docker image** → all dependencies pre-installed, works out-of-the-box
 - 📄 **Automated QC dashboard** in HTML + PDF
 
----
+![CRISPResso Output](https://github.com/moeedejazkhan1/CRISPResso-NGS/blob/master/CRISPResso_output.png?raw=true)
+
 
 ## 🔥 Key Features  
 
